@@ -1,1 +1,28 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.card {
+  height: 500px;
+}
+
+.header {
+  height: 100px;
+  font-size: 80px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.footer {
+  height: 100px;
+  font-size: 80px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.number {
+  height: 300px;
+  font-size: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
